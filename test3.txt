@@ -4,3 +4,4 @@ local change1
 locat change2
 locat change3
 remote change3
+locat change4
